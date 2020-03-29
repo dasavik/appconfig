@@ -9,3 +9,6 @@ git fetch origin master:tmp
 git rebase tmp
 git push origin HEAD:master
 git branch -D tmp
+
+http://localhost:8888/app/prod
+http://localhost:8888/app/dev

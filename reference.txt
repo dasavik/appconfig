@@ -2,7 +2,8 @@ git init
 git remote add origin https://github.com/ajoysinhactc/appconfig.git
 git add .
 git commit -m "Initial Commit"
-git push -u origin master 
+#git push -u origin master 
+git push origin HEAD:master
 
 
 git fetch origin master:tmp

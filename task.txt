@@ -1,0 +1,13 @@
+1. create property files according to the application
+2. create property files according to the environment
+
+	a. usermanager-dev.properties
+	b. usermanager-prod.properties
+	c. accountmanager-dev.properties
+	d. accountmanager-prod.properities
+
+3. create property as below
+    a. jwtsecret
+    b. thirdparturl
+    c. appname
+    
